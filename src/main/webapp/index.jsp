@@ -361,14 +361,14 @@
 <!-- Home Section -->
 <section id="home" aria-label="Home section">
   <h1>Buy and Sell Coins with Confidence</h1>
-  <p>Welcome to Amardeep Agency - Your trusted partner for coin transactions. Secure, fast, and reliable.</p>
+  <p>Welcome to Avneesh Agency - Your trusted partner for coin transactions. Secure, fast, and reliable.</p>
   <button id="scrollToLoginBtn" aria-label="Go to Login Section">Get Started</button>
 </section>
 
 <!-- About Section -->
 <section id="about" aria-label="About Amardeep Agency">
   <h2>About Us</h2>
-  <p>At Amardeep Agency, we specialize in buying and selling rare and valuable coins. Our expert team ensures secure and seamless transactions for enthusiasts and investors alike. Join us and experience reliable trading with transparency and great customer support.</p>
+  <p>At Avneesh Agency, we specialize in buying and selling rare and valuable coins. Our expert team ensures secure and seamless transactions for enthusiasts and investors alike. Join us and experience reliable trading with transparency and great customer support.</p>
 </section>
 
 <!-- Contact Section -->
